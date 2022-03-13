@@ -1,2 +1,2 @@
-# Python-Odevi
+# Patika Python-Odevi
 Python Bitirme Ödevim
